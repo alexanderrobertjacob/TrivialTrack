@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 99bee39d9647bf648b7b865f53433f66
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS_sprites_CharacterStuff_CharacterStuff_0
+    21300002: DS_sprites_CharacterStuff_CharacterStuff_1
+    21300004: DS_sprites_CharacterStuff_CharacterStuff_2
+    21300006: DS_sprites_CharacterStuff_CharacterStuff_3
+    21300008: DS_sprites_CharacterStuff_CharacterStuff_4
+    21300010: DS_sprites_CharacterStuff_CharacterStuff_5
+    21300012: DS_sprites_CharacterStuff_CharacterStuff_6
+    21300014: DS_sprites_CharacterStuff_CharacterStuff_7
+    21300016: DS_sprites_CharacterStuff_CharacterStuff_8
+    21300018: DS_sprites_CharacterStuff_CharacterStuff_9
+    21300020: DS_sprites_CharacterStuff_CharacterStuff_10
+    21300022: DS_sprites_CharacterStuff_CharacterStuff_11
+    21300024: DS_sprites_CharacterStuff_CharacterStuff_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: DS_sprites_CharacterStuff_CharacterStuff_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 613
+        width: 171
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 802
+        width: 104
+        height: 31
+      alignment: 9
+      pivot: {x: .108213276, y: .543813407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 767
+        width: 187
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_3
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 603
+        width: 301
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 719
+        width: 109
+        height: 35
+      alignment: 9
+      pivot: {x: .113724738, y: .441791654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 599
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: .481135905, y: .731181681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 407
+        width: 309
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 279
+        width: 208
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 446
+        width: 43
+        height: 53
+      alignment: 9
+      pivot: {x: .453674316, y: .913435459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_9
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 349
+        width: 109
+        height: 37
+      alignment: 9
+      pivot: {x: .0780398846, y: .473829925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 32
+        width: 243
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_11
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 112
+        width: 171
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS_sprites_CharacterStuff_CharacterStuff_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 89
+        width: 85
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -3,6 +3,10 @@
 # =============== #
 Temp/
 Library/
+Releases/
+Installation/
+ProjectSettings/
+Alpha_Data/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
